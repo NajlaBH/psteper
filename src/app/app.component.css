@@ -1,0 +1,13 @@
+.danger{
+ color:red;	
+}
+
+.control-success{
+    border: 1px solid #87d087;
+    outline: none;
+}
+
+.control-danger{
+    border: 1px solid #d08787;
+    outline: none;
+}
